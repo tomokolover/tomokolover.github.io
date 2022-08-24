@@ -1,2 +1,2 @@
 # tomokolover.github.io
-# shitty website
+# terrible website
