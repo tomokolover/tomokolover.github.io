@@ -1,2 +1,2 @@
 # tomokolover.github.io
-# somehow passed validation
+# no validation yay
